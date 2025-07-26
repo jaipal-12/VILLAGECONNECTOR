@@ -57,7 +57,7 @@ export const services: Service[] = [
         description: 'Fundamental mathematics concepts for adult learners',
         duration: '35:15',
         thumbnail: 'https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=400',
-        videoUrl: 'https://www.youtube.com/embed/8mve0zR2n5o',
+        videoUrl: 'https://youtu.be/CobQvtjL5gc?si=o5sWn715aNJJ6qBp',
         category: 'Mathematics'
       },
       {
@@ -66,7 +66,7 @@ export const services: Service[] = [
         description: 'Improve your English speaking and writing skills',
         duration: '28:40',
         thumbnail: 'https://images.pexels.com/photos/1181772/pexels-photo-1181772.jpeg?auto=compress&cs=tinysrgb&w=400',
-        videoUrl: 'https://www.youtube.com/embed/jQZzGcv7nu8',
+        videoUrl: 'https://youtu.be/PzyKDZLO5Bk?si=nh-ZV9GHdZbKWTcw',
         category: 'Language'
       }
     ]
